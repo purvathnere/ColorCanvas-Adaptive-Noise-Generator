@@ -6,5 +6,5 @@ Create captivating digital art with the Dynamic Noise Generator. This Java appli
 
 - **Interactive Slider:** Easily adjust noise intensity in real-time.
 - **Colorful Creations:** Experiment with dynamic noise to craft pixelated masterpieces,
-- **Java Powered:** Simple and versatile, built with Java ....
+- **Java Powered:** Simple and versatile, built with Java ............
 
